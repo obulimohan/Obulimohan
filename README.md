@@ -8,10 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-obulimohan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/obulimohan)
 [![Email](https://img.shields.io/badge/Email-obulimohan2022%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:obulimohan2022@gmail.com)
 
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
